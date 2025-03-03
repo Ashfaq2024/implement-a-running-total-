@@ -1,2 +1,2 @@
-# implement-a-running-total-
+A “proof of concept” is code that is used to ensure you understand a particular task. The code you create will probably not be used exactly as you create it in the finished product, but is used to prove you can solve the particular problem under consideration. “Proof of concept” is often used to experiment with the hardest parts of a problem. If you can’t solve the hardest parts, you won’t be able to solve the problem as a whole either! After you prove you can solve the problem, you then reflect on the solution you created and make it even better for the final product.# implement-a-running-total-
 Sprint 1 "proof of concept"
